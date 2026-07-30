@@ -282,9 +282,6 @@ Ask yourself:
 ---
 
 
-
-
-
 # ⭐ Stretch Challenge
 
 Predict the output before running:
