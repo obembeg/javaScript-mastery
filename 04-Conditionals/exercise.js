@@ -47,10 +47,8 @@
 
 // Create:
 
-// ```javascript
-// const membership = true;
-// const bookPrice = 10000;
-// ```
+const membership = true;
+const bookPrice = 10000;
 
 // If the user has a membership:
 
