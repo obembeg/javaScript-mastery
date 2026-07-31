@@ -22,3 +22,18 @@ Expected output:
 Average: 71.67
 Pass
 ```
+
+
+// function calculateAverage(score1, score2, score3) {
+//   const total = score1 + score2 + score3;
+//   const average = Number((total / 3).toFixed(2));
+//   console.log("Average:", average);
+//   if (average >= 50) {
+//     console.log("Pass");
+//   } else {
+//     console.log("Fail");
+//   }
+//   return average;
+// }
+
+// calculateAverage(70, 65, 80);
