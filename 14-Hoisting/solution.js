@@ -1,1 +1,1 @@
-//I believe this ths not need for todays lesson
+//I believe this is not needed for today's lesson as I want you to self practice on this
